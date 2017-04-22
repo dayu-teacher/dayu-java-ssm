@@ -1,5 +1,8 @@
 #使用IntelliJ IDEA2017开发基于Maven+Spring MVC的入门Java项目
 
+https://github.com/dayu-teacher/dayu-java-ssm.git
+
+
 ##一、修改pom.xml文件，加载 Spring MVC相关的依赖Jar包
 
 <properties>
@@ -135,6 +138,4 @@ web.xml文件声明了一个Servlet（即dispatcher servlet）来接收所有类
   </servlet-mapping>
 </web-app>
 
-##七、配置Tomcat
-
-目前比较流行的Web应用服务器Tomcat： 技术先进、性能稳定，而且免费。
+##七、运行测试
