@@ -1,6 +1,16 @@
-#使用IntelliJ IDEA2017开发基于Maven+Spring MVC的入门Java项目
+#使用IntelliJ IDEA 2017开发基于Maven+Spring MVC的入门Java项目
 
-https://github.com/dayu-teacher/dayu-java-ssm.git
+项目源码：https://github.com/dayu-teacher/dayu-java-ssm.git
+
+###开发环境搭建
+
+>开发环境：IntelliJ IDEA 2017 + GIT + MAVEN + Spring MVC 4.3.7 + Tomcat8
+
+1、下载安装JDK1.8
+
+2、下载安装Tomcat8
+
+3、下载安装Intellij IDEA
 
 
 ##一、修改pom.xml文件，加载 Spring MVC相关的依赖Jar包
